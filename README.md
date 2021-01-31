@@ -1,5 +1,5 @@
 # AIM MachineHack Hackathon - Buyers' Time Prediction Challenge 
-
+###### In case of trouble opening the jupyter notebook (rendering issue), use this link: https://nbviewer.jupyter.org/github/animdas/AIM_MachineHack_BuyersTimePrediction/blob/main/AIM-MachineHack_BuyersTimePrediction.ipynb
 
 ### Problem Statement & Description
 In this hackathon, the goal is to create a machine learning model to forecast the time spent by a buyer on an eCommerce platform. It is believed that AI and ML technologies hold significant promise in not only to predict buyers’ time on a platform but also for customer segmentation as well as product recommendation.
