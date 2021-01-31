@@ -1,6 +1,7 @@
 # AIM MachineHack Hackathon - Buyers' Time Prediction Challenge 
 
-## Problem Statement & Description
+
+### Problem Statement & Description
 In this hackathon, the goal is to create a machine learning model to forecast the time spent by a buyer on an eCommerce platform. It is believed that AI and ML technologies hold significant promise in not only to predict buyers’ time on a platform but also for customer segmentation as well as product recommendation.
 
 The dataset for training has 5429 rows with nine columns, including time_spent column as the target variable. Alongside the dataset for testing includes 2327 rows with eight columns. The attribute description includes 
@@ -12,10 +13,12 @@ The dataset for training has 5429 rows with nine columns, including time_spent c
 
 The hackathon comes with a few prerequisite skills such as regression modelling, advanced feature engineering, and ability to optimise RMSLE score, on which the evaluation of the hackathon was done.
 
-## Tools/Techniques used: 
+
+### Tools/Techniques used: 
 Python, Data Visualization using Seaborn, Feature Engineering, Boosting Regressor Algorithms, Hyperparameter Optimization, Voting Regressor Ensemble.
 
-## Result: 
+
+### Result: 
 Top 10% - Rank 79 / 793
 
 
